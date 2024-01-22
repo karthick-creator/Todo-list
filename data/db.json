@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Naruto"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Sasuke"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Sakura"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "kakashi"
+    }
+  ]
+}
